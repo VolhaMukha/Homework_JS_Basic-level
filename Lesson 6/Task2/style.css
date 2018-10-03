@@ -1,0 +1,10 @@
+td {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+  border: 1px solid black;
+}
+input {
+  width: 50px;
+  height: 20px;
+}
